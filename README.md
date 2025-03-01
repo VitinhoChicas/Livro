@@ -17,8 +17,8 @@ Este projeto feito na linguagem Java com o framework Spring, contendo operaçõe
 - **Deletar Editora**: Editora não pode ser deletada com um livro vinculado
 - **Livro**: Impede a inserção de ISBN  repetidos
 - **Deletar Autor**: Autor não pode ser deletado com um livro vinculado
-- *Campos nulos para todas as classes*: Bloqueia requisições com valores ausentes
-- *Campos vazios para todas as classes*: Garante que os dados obrigatórios sejam preenchidos
+- **Campos nulos para todas as classes**: Bloqueia requisições com valores ausentes
+- **Campos vazios para todas as classes**: Garante que os dados obrigatórios sejam preenchidos
 
 ### 🗄 Banco de Dados Suportados
 - *H2* (banco em memória para testes)
